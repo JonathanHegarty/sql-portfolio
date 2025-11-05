@@ -10,10 +10,10 @@ Each script demonstrates a different skill set, from core query logic and joins 
 
 | File | Description | Skills Demonstrated |
 |------|--------------|--------------------|
-| [AlterUnionAddViews.sql](AlterUnionAddViews.sql) | Demonstrates creating and altering views, using `UNION` operations to merge datasets efficiently. 
-| [CaseRollupCoalesce.sql](CaseRollupCoalesce.sql) | Shows use of `CASE`, `ROLLUP`, and `COALESCE` for handling nulls and generating subtotals.
-| [FinalCode1.sql](FinalCode1.sql) | Part 1 of a full analytical workflow — data cleaning, joins, and transformations.
-| [FinalCodePart2.sql](FinalCodePart2.sql) | Part 2: advanced analysis and final reporting queries.
+| [AlterUnionAddViews.sql](AlterUnionAddViews.sql) | Demonstrates creating and altering views, using `UNION` operations to merge datasets efficiently. | Alter, UNION, Views, Add |
+| [CaseRollupCoalesce.sql](CaseRollupCoalesce.sql) | Shows use of `CASE`, `ROLLUP`, and `COALESCE` for handling nulls and generating subtotals. | Case, Rollup, Coalesce |
+| [FinalCode1.sql](FinalCode1.sql) | Part 1 of a full analytical workflow — data cleaning, joins, and transformations. | Joins, Filtering, Data prep |
+| [FinalCodePart2.sql](FinalCodePart2.sql) | Part 2: advanced analysis and final reporting queries. | Filtering, Data prep, Data Analysis |
 
 ---
 
