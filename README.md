@@ -1,2 +1,1 @@
-# sql-portfolio
-SQL Analytics Portfolio
+# Jonathan Hegarty's portfolio
